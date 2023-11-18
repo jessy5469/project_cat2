@@ -1,0 +1,73 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black; /* Light green background for skills page */
+}
+
+header {
+    background-color: black; /* Green header background */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+img
+	{
+	border-color:gray;
+	border-width: 10;
+    border: 1px solid none; 
+    border-radius: 5ex;
+    padding: 5px; 
+    width: 450px; 
+	}
+nav {
+    margin-right: 20px; /* Adds some space between the navigation and the image */
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background-color: #fff; /* White background for content section */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h3 {
+    color: #66cc66; /* Green color for section headings */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: green;
+  }
+  a
+  {
+   display: inline-block;
+   padding: 10px 20px;
+   background-color: black;
+   color: #3498db;
+   text-decoration: none;
+   font-weight: bold;
+   border-radius: 5px;
+ }
+ .cta {
+    text-align: center;
+    padding: 50px 0;
+    background-color: white;
+    color: red;
+  }
